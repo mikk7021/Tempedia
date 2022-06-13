@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Tempedia/static/css/main.3810d57f.css",
+    "main.js": "/Tempedia/static/js/main.9dfd8b54.js",
+    "static/js/787.8e3665de.chunk.js": "/Tempedia/static/js/787.8e3665de.chunk.js",
+    "static/media/peakpx.jpg": "/Tempedia/static/media/peakpx.1e8c3faccaace7ee6782.jpg",
+    "static/media/original.jpg": "/Tempedia/static/media/original.f10cdfe4e4dd2e1b99f3.jpg",
+    "static/media/Logo.png": "/Tempedia/static/media/Logo.1f8d2c4fdb0d1ba23786.png",
+    "service-worker.js": "/Tempedia/service-worker.js",
+    "index.html": "/Tempedia/index.html",
+    "main.3810d57f.css.map": "/Tempedia/static/css/main.3810d57f.css.map",
+    "main.9dfd8b54.js.map": "/Tempedia/static/js/main.9dfd8b54.js.map",
+    "787.8e3665de.chunk.js.map": "/Tempedia/static/js/787.8e3665de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3810d57f.css",
+    "static/js/main.9dfd8b54.js"
+  ]
+}
